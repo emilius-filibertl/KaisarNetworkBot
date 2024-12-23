@@ -1,3 +1,7 @@
+#Config Data
+realAccounts.json
+realProxy.json
+
 # Logs
 logs
 *.log
